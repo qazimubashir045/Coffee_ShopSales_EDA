@@ -41,4 +41,4 @@ All visualizations are saved in the `images/` folder.
 ---
 
 📌 **Author**: Mubashir Qazi  
-🔗 [LinkedIn](https://linkedin.com/qazimubashir045) | [GitHub](https://github.com/qazimubashir045)
+🔗 [LinkedIn](www.linkedin.com/in/qazimubashir045) | [GitHub](https://github.com/qazimubashir045)
